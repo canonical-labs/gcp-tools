@@ -1,9 +1,13 @@
 # Introduction
 
-The following sections assume you have signed up for google cloud.
-If you haven't done this step, please visit the [gcp signup page](https://cloud.google.com/). You can start for free.
+The following sections assume you have signed up for google cloud. If you haven't done
+this step, please visit the [gcp signup page](https://cloud.google.com/).
+You can start for free.
 
 # GCP Setup Instructions
+
+You can run these instructions from your own terminal, or using the GCP shell. The GCP
+shell is accessed through your browser, from the GCP dashboard, as described below.
 
 1. Please [create a project](https://console.cloud.google.com/projectcreate)
   1. You'll use this project id for the commands in this directory
